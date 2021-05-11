@@ -27,3 +27,8 @@ def Subtraction(a, b):
 
 sum(2,3)
 
+def Division(a, b):
+    print(a+b)
+
+
+sum(2,3)
