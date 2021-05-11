@@ -39,4 +39,7 @@ class TestHomePage(BaseClass):
     def getdata(self, request):
         return request.param
 
+print("Remove this line1")
+print("Remove this line2")
+
 

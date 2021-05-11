@@ -39,4 +39,6 @@ class TestOne(BaseClass):
         # self.driver.get_screenshot_as_file("screen.png")
 
 
+print("Remove this line1")
+print("Remove this line2")
 
