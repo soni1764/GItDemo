@@ -10,8 +10,11 @@ def factorial(n):
     else:
         return n * factorial(n-1)
 
-
+print("THis is new change")
 n = int(input("Enter a number to get its factorial:\n"))
 fact = factorial(n)
 print(fact)
+
+
+
 
