@@ -15,6 +15,11 @@ n = int(input("Enter a number to get its factorial:\n"))
 fact = factorial(n)
 print(fact)
 
+def sum(a, b):
+    print(a+b)
+
+
+sum(2,3)
 
 
 
