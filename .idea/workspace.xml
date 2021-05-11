@@ -252,10 +252,10 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.conftest" />
-      <item itemvalue="Python.rough" />
       <item itemvalue="Python.Roughwork" />
       <item itemvalue="Python.ShoppingPage" />
+      <item itemvalue="Python.conftest" />
+      <item itemvalue="Python.rough" />
       <item itemvalue="Python.test_e2e" />
       <item itemvalue="Python tests.pytest in test_HomePage.py" />
     </list>
