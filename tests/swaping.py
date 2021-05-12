@@ -31,3 +31,16 @@ print("Hello, Delhi how are you")
 print("Hello, Delhi how are you")
 print("Hello, Delhi how are you")
 print("Hello, Delhi how are you")
+print("-----------------------------------------")
+a = 10
+b = 20
+
+if a < 10:
+    print("A is less than B")
+elif a == b:
+    print("A is equl to B")
+else:
+    print("A is greater than B")
+print("---------------------")
+
+print("Hello, Banglore how are you")
