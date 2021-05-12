@@ -34,3 +34,13 @@ def Division(a, b):
 sum(2,3)
 
 
+print("--------------------------")
+
+
+a = int(input("Enter first number\n"))
+b = int(input("Enter first number\n"))
+
+print(a, b)
+b, a = a, b
+
+print(a, b)
