@@ -15,3 +15,19 @@ print("Hello, Gourav how are you")
 print("Hello, Gourav how are you")
 print("Hello, Gourav how are you")
 print("Hello, Gourav how are you")
+
+print("--------------------------")
+
+
+a = int(input("Enter first number\n"))
+b = int(input("Enter first number\n"))
+
+print(a, b)
+b, a = a, b
+
+print(a, b)
+
+print("Hello, Delhi how are you")
+print("Hello, Delhi how are you")
+print("Hello, Delhi how are you")
+print("Hello, Delhi how are you")
