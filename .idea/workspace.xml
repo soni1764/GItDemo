@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5914a20-4bbf-4216-a5fb-556c910a5daf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tests/factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/factorial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/iamright.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/swaping.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/swaping.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/test_e2e.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state>
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -28,8 +29,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/factorial.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="444">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
             </state>
           </provider>
         </entry>
@@ -37,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/swaping.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+            <state relative-caret-position="425">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -78,6 +79,7 @@
         <option value="$PROJECT_DIR$/tests/test_HomePage.py" />
         <option value="$PROJECT_DIR$/tests/test_e2e.py" />
         <option value="$PROJECT_DIR$/tests/factorial.py" />
+        <option value="$PROJECT_DIR$/tests/iamright.py" />
         <option value="$PROJECT_DIR$/tests/swaping.py" />
       </list>
     </option>
@@ -93,23 +95,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="GItDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GItDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="GitstuffDelhi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitstuffDelhi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="GItDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GItDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="GitstuffDelhi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GitstuffDelhi" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -438,8 +440,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_HomePage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="612">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -448,8 +450,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/test_e2e.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state>
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -458,15 +460,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/factorial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="444">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/swaping.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/iamright.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
